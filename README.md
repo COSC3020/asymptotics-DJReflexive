@@ -21,9 +21,13 @@ I have done the first one for you, as an example.
 | $f(n)= n^2 $                  | 1           | $g(n)= 2^n$            |
 
 
+# Sources
 
-# Plagiarism Acknowledgement
- 
 - ChatGPT: for the Summaries and Practice Examples of how to use Asymptotic Notation.
 - "Neso Academy" on YouTube: for the Summaries and Practice Examples of how to use Asymptotic Notation.
 - Received help from Lars in Office hours in how to conceptually understand how functions compare against eachother (specifically with the 3rd, 5th, and 6th problems).
+
+
+# Plagiarism Acknowledgement
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
