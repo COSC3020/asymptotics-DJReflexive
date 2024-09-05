@@ -10,12 +10,24 @@ Fill in the *number* from this list that best describes their relationship:
 
 I have done the first one for you, as an example.
 
-| $f(n)=\ldots$              | compared to | $g(n)=\ldots$          |
-|----------------------------|:-----------:|------------------------|
-| $f(n)=n$                   | 1           | $g(n)=2n^2 + n$        |
-| $f(n)= 10n + 3\log_{15} n$ |             | $g(n)= 4n - 2\log_2 n$ |
-| $f(n) = 2n^5$              |             | $g(n) = 5n^2$          |
-| $f(n)=\log_{10} \left(n^{10}\right)$ |  | $g(n)=n$ |
-| $f(n)= 4n^5 $ |  | $g(n)= 5n^4$ |
-| $f(n) = 10^{256}$ |  | $g(n) = \log n$ |
-| $f(n)= n^2 $ |  | $g(n)= 2^n$ |
+| $f(n)=\ldots$                 | compared to | $g(n)=\ldots$          |
+|-------------------------------|:-----------:|------------------------|
+| $f(n)=n$                      | 1           | $g(n)=2n^2 + n$        |
+| $f(n)= 10n + 3\log_{15} n$    | 4           | $g(n)= 4n - 2\log_2 n$ |
+| $f(n) = 2n^5$                 | 2           | $g(n) = 5n^2$          |
+| $f(n)=\log_{10} \left(n^{10}\right)$ | 1    | $g(n)=n$               |
+| $f(n)= 4n^5 $                 | 2           | $g(n)= 5n^4$           |
+| $f(n) = 10^{256}$             | 1           | $g(n) = \log n$        |
+| $f(n)= n^2 $                  | 1           | $g(n)= 2^n$            |
+
+
+# Sources
+
+- ChatGPT: for the Summaries and Practice Examples of how to use Asymptotic Notation.
+- "Neso Academy" on YouTube: for the Summaries and Practice Examples of how to use Asymptotic Notation.
+- Received help from Lars in Office hours in how to conceptually understand how functions compare against eachother (specifically with the 3rd, 5th, and 6th problems).
+
+
+# Plagiarism Acknowledgement
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
